@@ -1,5 +1,3 @@
-<h2 >  Profile </h2>
-
 <h1 align="center">Hi , I'm Code Lover <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Engineer;Frontend+Engineer;Backend+Engineer;Devops++Engineer;&center=true&width=500&height=50"></a>
@@ -8,21 +6,6 @@
 <h5 align="center">I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself. As a remote full-time Full Stack Engineer my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills and fluent in English. I like to collaborate with the team to accomplish goals.
 </h5>
 <br/>
-<h4 align="center">
-If you're still reading me, why don't we connect?</h4>
-
-<!-- <div style="text-align:center;">
-<a href="https://www.instagram.com/awais_khan_officials/">
-  <img align="left" alt="Awais's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://github.com/DevNinja56/">
-  <img align="right" alt="Awai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-	</div> -->
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Awaiskhan404" /> </p>
-<!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404"></p> -->
 
 <br/>
 
