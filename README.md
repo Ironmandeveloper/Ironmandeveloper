@@ -22,8 +22,6 @@
     <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-	<br>
-	<br>
    <img align="center" alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
    <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
    <img align="center" alt="Angular" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -53,36 +51,35 @@
   <img align="center" src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
 </div> 
 <h3>Database:</h3>  <div style="display: inline-block">
-    <img align="center"alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center"alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 	<img align="center"alt="SQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue" /> 
-	<img align="center"alt="NoSQL" src=" https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> 
-	<img align="center"alt="NoSQL" src=" https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-	<img align="center"alt="NoSQL" src=" https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
+	<img align="center"alt="NoSQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> 
+	<img align="center"alt="NoSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+	<img align="center"alt="NoSQL" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
 
 </div> 
 
 <h3>DevOps:</h3>  <div style="display: inline-block">
     <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img align="center" alt="Amplify" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-    <!-- <img align="center" alt="Elastic Beanstalk" src="https://img.shields.io/badge/-ElasticBeanstalk-005571?style=for-the-badge&logo=elasticBeanstalk" /> -->
-    <!-- <img align="center" alt="EC2" src="https://img.shields.io/badge/ec2-007ACC?style=for-the-badge&logo=ec2&logoColor=white" /> -->
-    <!-- <img align="center"alt="Lambda" src="https://img.shields.io/badge/lambda-%23326ce5.svg?style=for-the-badge&logo=lambda&logoColor=white" /> -->
-    <!-- <img align="center" alt="S3" src="https://img.shields.io/badge/s3-43853D?style=for-the-badge&logo=s3&logoColor=white" /> -->
-    <!-- <img align="center"alt="RDS" src="https://img.shields.io/badge/rds-%23DD0031.svg?&style=for-the-badge&logo=rds&logoColor=white" />  -->
-    <!-- <img align="center"alt="DynamoDB" src="https://img.shields.io/badge/%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" /> -->
-    <!-- <img align="center"alt="Cognito" src="https://img.shields.io/badge/Cognito-311C87?&style=for-the-badge&logo=Cognito&logoColor=white" />  -->
     <img align="center"alt="GCP" src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img align="center"alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
     <!-- <img align="center"alt="DO" src="https://img.shields.io/badge/DO-%23E0234E.svg?style=for-the-badge&logo=DO&logoColor=white" />  -->
-	<br>
-	<br>
     <!-- <img align="center"alt="CI/CD" src="https://img.shields.io/badge/CI/CD-316192?style=for-the-badge&logo=CI/CD&logoColor=white" />   -->
     <img align="center"alt="DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center"alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />   
     <!-- <img align="center"alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />  -->
 </div>  </h5>
 <br>
-<h2>Testing Tools: 🛠 </h2>
+<h3>Realtime Data Processing</h3> <div style="display: inline-block" >
+  <img align="center" alt="Magento" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />       
+  <img align="center" alt="Magento" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />       
+  <img align="center" alt="Magento" src=" 	https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />       
+  <!-- <img align="center" alt="Magento" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />       
+  <img align="center" alt="Magento" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />        -->
+</div> 
+<br>
+<h2 style="display: inline-block" align='center'>Testing Tools: 🛠 </h2>
 
 <div style="display: inline-block" align='center'><br />
     <img align="center" alt="Git" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
@@ -91,10 +88,3 @@
     <img align="center"alt="DOCKER" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" /> 
     <img align="center"alt="DOCKER" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" /> 
 </div>
-<h3>Realtime Data Processing</h3> <div style="display: inline-block" >
-  <img align="center" alt="Magento" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />       
-  <img align="center" alt="Magento" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />       
-  <img align="center" alt="Magento" src=" 	https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />       
-  <!-- <img align="center" alt="Magento" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />       
-  <img align="center" alt="Magento" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />        -->
-</div> 
