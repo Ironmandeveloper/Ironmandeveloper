@@ -77,9 +77,7 @@
 <h3>Realtime Data Processing</h3> <div style="display: inline-block" >
   <img align="center" alt="Magento" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />       
   <img align="center" alt="Magento" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />       
-  <img align="center" alt="Magento" src=" 	https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />       
-  <!-- <img align="center" alt="Magento" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />       
-  <img align="center" alt="Magento" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />        -->
+  <img align="center" alt="Magento" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>       
 </div> 
 <br>
 <h2 style="display: inline-block" align='center'>Testing Tools: 🛠 </h2>
