@@ -5,11 +5,6 @@
 <hr/>
 <h5 align="center">I'm a transparent and responsible individual with a keen eye for detail, dedicated to producing top-notch, well-documented code. A team player at heart, I prioritize collective success over personal interests, enjoying both mentoring and learning. As a remote Full Stack Engineer, I optimize and develop the company's software products, leveraging strong communication skills and a collaborative approach.
 </h5>
-<br/>
-
-<br/>
-
-<h5>
 
 <h2 >  Ask me about </h2>
 <!-- 	<div align="center">
