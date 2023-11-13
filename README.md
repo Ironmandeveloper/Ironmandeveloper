@@ -1,6 +1,6 @@
 <h1 align="center">I have a strong affection for programming.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Engineer;Frontend+Engineer;Backend+Engineer;Devops++Engineer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Engineer;Frontend+Engineer;Backend+Engineer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h5 align="center">I'm a transparent and responsible individual with a keen eye for detail, dedicated to producing top-notch, well-documented code. A team player at heart, I prioritize collective success over personal interests, enjoying both mentoring and learning. As a remote Full Stack Engineer, I optimize and develop the company's software products, leveraging strong communication skills and a collaborative approach.
